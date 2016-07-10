@@ -1,0 +1,23 @@
+{
+    "name": "socket.temp",
+    "title": "socket.temp",
+    "description": "socket",
+    "version": "1.0.0",
+    "homepage": "https://github.com/liupishui/socket.temp",
+    "author": {
+        "name": "jingshuiyuan",
+        "url": "http://www.lpsjj.cn/blog/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/liupishui/socket.temp.git"
+    },
+    "keywords": [
+        "socket",
+        "socket.temp"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
