@@ -16,6 +16,9 @@
         "socket",
         "socket.temp"
     ],
+    "bugs": {
+        "url": "https://github.com/liupishui/socket.temp/issues"
+    },
     "dependencies": {
     },
     "devDependencies": {
