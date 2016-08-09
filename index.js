@@ -141,7 +141,7 @@ WebSocket.prototype.checkHeartBeat = function() {
     setTimeout(function() {
         if (that.state !== "OPEN") return;
 
-        if (that.pingTimes >= 3) {
+        if (that.pingTimes >= 600) {
             that.close("time out");
             return;
         }
